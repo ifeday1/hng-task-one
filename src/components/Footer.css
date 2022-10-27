@@ -1,0 +1,29 @@
+.footer {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-top: 1px solid #ebe9fe;
+  padding-top: 48px;
+
+}
+
+.footer > p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+  color: #667085;
+}
+
+/* display none when screen size is mobile */
+@media (max-width: 768px) {
+  .footer {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+  }
+}
