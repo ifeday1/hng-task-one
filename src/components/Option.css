@@ -1,8 +1,8 @@
-.main-option {
+.option {
   width: 100%;
 }
 
-.main-option > button {
+.option > button {
   width: 100%;
   height: 100%;
   border: none;
@@ -12,11 +12,11 @@
   cursor: pointer;
 }
 
-.main-option > button:hover {
+.option > button:hover {
   background-color: #dfe1e6;
 }
 
-.main-option > button > a {
+.option > button > a {
   font-style: normal;
   font-weight: 500;
   font-size: 18px;

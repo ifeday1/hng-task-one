@@ -1,5 +1,5 @@
 import React from "react";
-import MainOption from "../components/MainOption";
+import MainOption from "../components/Option";
 import { ReactComponent as Github } from "../assets/github.svg";
 import { ReactComponent as Slack } from "../assets/slack.svg";
 import "./Main.css";
