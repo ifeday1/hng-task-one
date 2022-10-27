@@ -39,13 +39,14 @@ const Main = () => {
             />
 
             <div className="social-media">
+                <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
+                    <Slack />
+                </a>
+
                 <a href="https://github.com/ifeday1">
                     <Github />
                 </a>
 
-                <a href="https://zuri.chat/">
-                    <Slack />
-                </a>
             </div>
         </div>
     );
