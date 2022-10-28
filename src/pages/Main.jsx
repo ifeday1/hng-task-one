@@ -10,7 +10,7 @@ const Main = () => {
             <Option
                 title="Twitter Link"
                 link="https://twitter.com/IfeoluwaOladeni"
-                id="twitter"
+                id="twitter__link"
             />
             <Option
                 title="Zuri Team"
