@@ -15,7 +15,7 @@ const Main = () => {
             <Option
                 title="Zuri Team"
                 link="https://training.zuri.team/"
-                id="btn_zuri"
+                id="btn__zuri"
             />
             <Option
                 title="Zuri Books"
@@ -24,8 +24,8 @@ const Main = () => {
             />
             <Option
                 title="Python Books"
-                link="https://books.zuri.team/python-for-beginners?ref_id=%3Cyourslackname%3E"
-                id="book_python"
+                link="https://books.zuri.team/python-for-beginners?ref_id=Ifeday"
+                id="book__python"
             />
             <Option
                 title="Background Check for Coders"
@@ -35,7 +35,7 @@ const Main = () => {
             <Option
                 title="Design Books"
                 link="https://books.zuri.team/design-rules"
-                id="book_design"
+                id="book__design"
             />
 
             <div className="social-media">
