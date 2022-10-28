@@ -1,6 +1,6 @@
 import React from "react";
 import "./Option.css";
-const MainOption = (props) => {
+const Option = (props) => {
     const { title, link, id } = props;
     //console.log(link);
 
@@ -13,4 +13,4 @@ const MainOption = (props) => {
     );
 };
 
-export default MainOption;
+export default Option;

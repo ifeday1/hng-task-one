@@ -17,9 +17,9 @@ const Profile = (props) => {
             <img
                 src="https://avatars.githubusercontent.com/u/85260808?v=4"
                 alt="profile image"
-                id="profile-img"
+                id="profile__img"
             />
-            <h1 id="twitter">Ifeoluwa</h1>
+            <h1 id="twitter">Ifeoluwa Oladeni</h1>
             <h2
                 id="slack"
                 style={{
