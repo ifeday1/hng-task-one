@@ -1,13 +1,13 @@
 import React from "react";
 import "./Option.css";
 const Option = (props) => {
-    const { title, link, id } = props;
+    const { title, link, to, id } = props;
     //console.log(link);
 
     return (
         <div className="option">
             <button>
-                <a id={id} href={link}>{title}</a>
+                <a id={id} href={to}>{title}</a>
             </button>
         </div>
     );
