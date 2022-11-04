@@ -2,7 +2,7 @@ import React from "react";
 import Option from "../components/Option";
 import { ReactComponent as Github } from "../assets/github.svg";
 import { ReactComponent as Slack } from "../assets/slack.svg";
-import "./Main.css";
+import "./Home.css";
 import Profile from "../components/Profile";
 import Footer from "../components/Footer";
 
