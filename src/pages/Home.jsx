@@ -16,12 +16,12 @@ const Main = () => {
             <div className="main">
                 <Option
                     title="Twitter Link"
-                    to="https://twitter.com/IfeoluwaOladeni"
+                    link="https://twitter.com/IfeoluwaOladeni"
                     id="twitter__link"
                 />
                 <Option
                     title="Zuri Team"
-                    to="https://training.zuri.team/"
+                    link="https://training.zuri.team/"
                     id="btn__zuri"
                 />
                 <Option
@@ -31,12 +31,12 @@ const Main = () => {
                 />
                 <Option
                     title="Python Books"
-                    to="https://books.zuri.team/python-for-beginners?ref_id=Ifeday"
+                    link="https://books.zuri.team/python-for-beginners?ref_id=Ifeday"
                     id="book__python"
                 />
                 <Option
                     title="Background Check for Coders"
-                    to="https://background.zuri.team/"
+                    link="https://background.zuri.team/"
                     id="pitch"
                 />
                 <Option
@@ -46,7 +46,7 @@ const Main = () => {
                 />
                 <Option
                     title="Contact"
-                    to="/contact"
+                    link="/contact"
                     id="contact"
                 />
 

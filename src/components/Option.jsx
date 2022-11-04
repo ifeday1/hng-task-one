@@ -7,7 +7,7 @@ const Option = (props) => {
     return (
         <div className="option">
             <button>
-                <a id={id} href={to}>{title}</a>
+                <a id={id} href={link}>{title}</a>
             </button>
         </div>
     );
