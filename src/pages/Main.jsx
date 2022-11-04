@@ -37,6 +37,11 @@ const Main = () => {
                 link="https://books.zuri.team/design-rules"
                 id="book__design"
             />
+            <Option
+                title="Contact"
+                link="/contact"
+                id="contact"
+            />
 
             <div className="social-media">
                 <a href="https://app.slack.com/client/T042F7V19Q8/C041JU70S5U">
