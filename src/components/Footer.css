@@ -5,6 +5,9 @@
   justify-content: space-between;
   border-top: 1px solid #ebe9fe;
   padding-top: 48px;
+ 
+  padding-bottom: 60px;
+ 
 
 }
 
@@ -15,6 +18,7 @@
   line-height: 24px;
   text-align: center;
   color: #667085;
+    
 }
 
 /* display none when screen size is mobile */
